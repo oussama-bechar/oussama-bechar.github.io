@@ -19,6 +19,7 @@ EXCEL
 <img src="images/telecom.jpg"
   width="500"
   height="350"/>
+  
 I've cleaned, explored and analyzed Jb link Telecom data to extract some useful insights that will help the company to retain their customers.
 
 ---
