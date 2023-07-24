@@ -9,7 +9,7 @@ Google sheets | SQL | Python
 <img src="images/My 21 Days to data Challenget.png"
   width="500"
   height="350"/>
-My first experience about data projects was by exploring The New York City crime Data, and pull out some interesting insights from it.
+My first experience with data projects involved exploring The New York City crime data and extracting fascinating insights from it.
 
 ---
 
@@ -19,7 +19,7 @@ EXCEL
 <img src="images/telecom.jpg"
   width="500"
   height="350"/>
-  
-I've cleaned, explored and analyzed Jb link Telecom data to extract some useful insights that will help the company to retain their customers.
+
+After conducting comprehensive data cleaning, thorough exploration, and in-depth analysis of JB Link Telecom data, I've extracted valuable insights that will play a crucial role in enhancing customer retention strategies for the company.
 
 ---
