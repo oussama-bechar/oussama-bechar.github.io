@@ -24,4 +24,10 @@ After conducting comprehensive data cleaning, thorough exploration, and in-depth
 
 ---
 
-TEST
+#### [Dannys Challenge](https://github.com/oussama-bechar/DannysDinner/blob/master/Desktop/dannys/Dannys_Challenge)
+ SQL (PostgreSQL)
+<img src="/images/Dannys.png"
+  width="500"
+  height="350"/>
+I had to explore data to answer Danny's questions and help the restaurant stay afloat.
+In this case study, I've used basic SQL functions, and also advanced ones like CTEs, windows functions and joins.
