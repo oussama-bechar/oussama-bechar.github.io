@@ -26,6 +26,7 @@ After conducting comprehensive data cleaning, thorough exploration, and in-depth
 
 #### [Dannys Challenge](https://github.com/oussama-bechar/DannysDinner/blob/master/Desktop/dannys/Dannys_Challenge)
  SQL (PostgreSQL)
+ 
 <img src="images/Dannys.png"
   width="500"
   height="350"/>
