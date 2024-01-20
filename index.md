@@ -34,3 +34,7 @@ After conducting comprehensive data cleaning, thorough exploration, and in-depth
 
 I had to explore data to answer Danny's questions and help the restaurant stay afloat.
 In this case study, I've used basic SQL functions, and also advanced ones like CTEs, windows functions and joins.
+
+
+
+wawaaaaaaaaaaa
