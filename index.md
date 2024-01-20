@@ -37,4 +37,3 @@ In this case study, I've used basic SQL functions, and also advanced ones like C
 
 
 
-wawaaaaaaaaaaa
